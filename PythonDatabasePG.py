@@ -4,7 +4,7 @@ import psycopg2
 hostname = "127.0.0.1"
 db = "apache_age"
 username = "postgres"
-pwd = "Veronica1"
+pwd = "Admin"
 port_id = "5432"
 conn = None
 cur = None
